@@ -4,7 +4,7 @@ Lui aussi réalisé dans le cadre de mon alternacne, ce script PowerShell a ét�
 
 ## Fonctionnalités
 
-- **Sélection de fichiers vidéo** : Permet aux utilisateurs de parcourir et sélectionner un fichier vidéo via un `OpenFileDialog`.
+- **Sélection de fichiers vidéo**
 - **Extraction des métadonnées** :
   - Résolution (largeur x hauteur)
   - Ratio d’affichage
